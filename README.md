@@ -10,3 +10,6 @@
 
 
 [Ejercicio1.2 Asociacion](https://github.com/Dany-Coss/Mineria_Datos_fcfm/blob/master/Ejercicio_1.2_Asociaci%C3%B3n%20-%20Jupyter%20Notebook.pdf)
+
+
+[Resumen 8 Temas](https://github.com/Dany-Coss/Mineria_Datos_fcfm/blob/master/Resumenes.pdf)
