@@ -16,3 +16,6 @@
 
 
 [Mapa Mental II](https://github.com/Dany-Coss/Mineria_Datos_fcfm/blob/master/MapaMental_2_1723784.pdf)
+
+
+[Analisis Bases de Datos](https://github.com/Dany-Coss/Mineria_Datos_fcfm/blob/master/AnalisisBD_1723784.pdf)
