@@ -24,3 +24,6 @@
 
 
 [Python Básico 1723784](https://github.com/Dany-Coss/Mineria_Datos_fcfm/blob/master/PythonBasico_1723784.ipynb)
+
+
+[Avance I - PIA](https://github.com/wendybazua/mineriadedatos/blob/master/Avance1-PIA_E13_G03%20.pdf)
